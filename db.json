@@ -4,7 +4,7 @@
       "id": 1,
       "content": "HTML is easy",
       "date": "2019-05-30T17:30:31.098Z",
-      "important": true
+      "important": false
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
     {
       "content": "Hello",
       "date": "2020-05-30T19:36:27.076Z",
-      "important": true,
+      "important": false,
       "id": 4
     },
     {
@@ -33,20 +33,26 @@
     {
       "content": "ok now",
       "date": "2020-05-30T19:40:18.900Z",
-      "important": false,
+      "important": true,
       "id": 6
     },
     {
       "content": "ok is this important?",
       "date": "2020-05-30T19:40:34.526Z",
-      "important": false,
+      "important": true,
       "id": 7
     },
     {
       "content": "This is awesome",
       "date": "2020-05-31T06:08:28.408Z",
-      "important": true,
+      "important": false,
       "id": 8
+    },
+    {
+      "content": "asdasd",
+      "date": "2020-05-31T09:42:26.846Z",
+      "important": false,
+      "id": 9
     }
   ]
 }
